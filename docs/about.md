@@ -9,7 +9,6 @@ Motto: "Small daily improvements when done consistently over time lead to stunni
 
 ### Software Engineer, Cisco Systems, San Jose, CA, June-2019 - current
 - Led the Diagnostics Center product to its first release in Cisco DNA Center.
-
 - Currently working on Cisco DNA Center Management System (DMS), building a highly available system that acts as the Single Pane of Glass for customers with multiple DNAC deployments. My primary responsibilities are:  solving problems and conducting PoCs on conflict resolution and authoring challenges while aggregating resources from all DNACs; working on an active-active system deployment in hybrid and multi-cloud for increased availability and reliability; interacting with different stakeholders to finalize the architecture commit of this product: interacting with PMs to get customer needs, collaborating with DNAC service owners and conducting PoCs to ensure that DNAC functionalities are available on DMS and to ensure transparent user experience using DMS after using DNAC, and interacting with team members while building the DMS framework and testing it.
 
 ### Platform Cloud Engineer, GE Digital, San Ramon, CA January-2018 - June-2019
