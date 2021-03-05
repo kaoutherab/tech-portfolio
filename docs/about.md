@@ -164,7 +164,7 @@ https://dblp.org/pers/hd/a/Abrougui:Kaouther
 
 ## VOLUNTEERING EXPERIENCE
 -  Officer at Cisco Speaks Toastmasters
--  Founder of the Career Kickoff space
+-  Founder of the Career Kickoff space to bring enthusiastic women together and drive them to achieve their career goals.
 -  Cisco Neo Panel
 -  Community Member, Open Networking Laboratory, Menlo Park, CA, USAHelp with ONOS (Open Network Operating System)
 development (in Java) and testing(using open source TestON (in Python)). 2015
@@ -175,9 +175,11 @@ Group. 2015
 - 2021 Cisco Inspire
 
 ## HOBBIES
+- Growing by participating in career development and leadership programs: Women Inventor Network, Executive Shadow Program...
+- Learning about cutting edge and future technologies.
 - Hiking
-- Audiobooks
-- Working out every day
-- Spartan Trifecta earned
+- Audiobooks / Reading
+- Practice daily the Victory Hour (5am-6am): Excercise / Reflect / Grow
+- Spartan: Earned Trifecta!
 
 
