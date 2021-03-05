@@ -1,24 +1,16 @@
----
-id: about
-title: About
----
 
-Highly motivated software engineer with many years of experience in software design and development, cloud, security.
+I am Kaouther Abrougui, a passionate, motivated, ambitious person. I believe that everything is possible when enough dedication and discipline are put into a potential goal. I love to play that role of enabler and stimulator to my surroundings, whether it be by enabling my kids to be strong, strive and dream about their future; or stimulating my colleagues to get things done in face of challenges while staying motivated and enthusiasts; or encouraging a friend to keep pushing on that last mile during a hard hike, and earn that satisfactory accomplishment feeling at the end. 
+I earned my PhD degree in 2011 in Computer Science and started my journey in research and development. There are 2 life lessons that I learned through my PhD journey, that I keep applying every day in my life and use to empower everyone around me: "Keep moving forward with eyes on your goal", "The greatest glory is not in never falling, but in rising every time we fall".
 
-1. Your current position
-1. Organizations you're involved with
-1. Your personal and professional values
-1. Hobbies or fun facts
-
-Write it in first (I) or third (Your Name Here) person.
-
-> Don't know what to write? Get a good friend to help! Set some time aside to soundboard.
+I am passionate about learning, growing, and innovating. I believe in the power of persistence and perseverance.
+Motto: "Small daily improvements when done consistently over time lead to stunning results!"
 
 ## Experience
 
 ### Software Engineer at Cisco
 - Led the Diagnostics Center product to its first release in Cisco DNA Center.
-- Currently working on Cisco DNA Center Management System for large scale DNACs deployment.
+- Currently working on Cisco DNA Center Management System (DMS), building a highly available system that acts as the Single Pane of Glass for customers with multiple DNAC deployments. My primary responsibilities are:  solving problems and conducting PoCs on conflict resolution and authoring challenges while aggregating resources from all DNACs; working on an active-active system deployment in hybrid and multi-cloud for increased availability and reliability; interacting with different stakeholders to finalize the architecture commit of this product: interacting with PMs to get customer needs, collaborating with DNAC service owners and conducting PoCs to ensure that DNAC functionalities are available on DMS and to ensure transparent user experience using DMS after using DNAC, and interacting with team members while building the DMS framework and testing it.
+
 ### Platform Cloud Engineer, GE Digital, San Ramon, CA January-2018 - June-2019
 - Helped build and maintain platform as a service in Public Cloud and
 Private Cloud. Technologies: Kubernetes, Cloud Foundry, Bosh,
@@ -45,34 +37,34 @@ Kong plugin.
 - Helped troubleshoot customer issues in the Platform.
 
 ### Full Stack Software Engineer, GE Aviation, San Ramon, CA November-2016 - January-2018
-Contributed to the design and development of Fleet Support solution
+- Contributed to the design and development of Fleet Support solution
 that helped increase detection lead time, reduce maintenance burden
 and improve assets (engines) availability. (Java, Spring, Oracle, SQL)
 
-Designed and developed a large scale and fault tolerant framework
+- Designed and developed a large scale and fault tolerant framework
 for ight data migration and alerts migration between On-Prem and
 Predix Cloud. (Java, Go, RabbitMQ, GreenPlum, Cassandra, Postgres)
 
-Design and develop microservices for Asset Performance
+- Design and develop microservices for Asset Performance
 Managements. (Java, Springboot, golang, Oracle DB, Cassandra,
 GreenPlum).)
 
 ### Alliance IT and Concursoft, Backend Software Engineer, Bay Area, CA May-2008 - November-2016
-Worked as consultant in the design and development of Web
+-Worked as consultant in the design and development of Web
 Applications for dierent clients:
 
-General Electric: Worked as full stack engineer to develop new
+- General Electric: Worked as full stack engineer to develop new
 features for the Fleet Support project, and maintain existing features.
 Partnered in pair programming and followed strict TDD to design,
 implement and test new end to end features for Asset Performance
 Management.
 
-Bank of America: Dened and constructed layers, server-side
+- Bank of America: Dened and constructed layers, server-side
 objects and client-side interfaces based on J2EE design patterns.
 Worked on the MySQL migration project. Worked on Spring MVC,
 Spring transactions, Spring security/Hibernate Applications.
 
-Sherwin Williams: Involved in analysis, design and development of
+- Sherwin Williams: Involved in analysis, design and development of
 Use Case diagrams, Sequence diagrams and Class diagrams using
 Microsoft Visio. Used Hibernate as an ORM tool for persisting the data
 Build web applications in Spring MVC, Spring IoC and integrated Spring
@@ -80,7 +72,7 @@ with Hibernate. Used Spring Framework to manage transactions,
 security. Used Restful Web Services to communicate between the two
 corporations.
 
-Sprint Telecommunications: Spring framework was used for
+- Sprint Telecommunications: Spring framework was used for
 building the Back-End architecture. Utilized the various J2ee Design
 patterns to develop the Business modules based on the required
 functionality. Interacted with business analysts and other end users to
@@ -93,7 +85,7 @@ service calls depending on the data passed to the web service. Used MQ
 series to create, send, receive and read messages. Prepared technical
 and Java API documentation.
 
-Mayo Clinic: Analyzed use cases or technical specication prepared
+- Mayo Clinic: Analyzed use cases or technical specication prepared
 by the client. Interacted with the clients for suggesting use case
 optimization or clarifying use case scenario when required. Designed
 components in design document using best practices and J2EE design
@@ -105,32 +97,35 @@ the development as well as production environment.
 
 ## Education
 ### PhD in Computer Science, University of Ottawa, Ottawa, Ontario, 2011
-Design and Performance Evaluation of Service Discovery Protocols for
+- Design and Performance Evaluation of Service Discovery Protocols for
 Vehicular Networks.
-Design and implementation of ecient service discovery protocols for
+- Design and implementation of efficient service discovery protocols for
 vehicles within the NSERC DIVA project Developing Next Generation
-Intelligent Vehicular Networks and Applications. The Network
+- Intelligent Vehicular Networks and Applications. The Network
 simulator (NS2) based on C++ and tcl, is used for simulation.
-Simulation experiments and results collection and drawing initiated
+- Simulation experiments and results collection and drawing initiated
 through the Perl scripting language.
 
 ### Master in Computer Science, University of Ottawa, Ottawa, Ontario, 2006
-Quality of Service and Fault Tolerant Distributed Channel Allocation
+- Quality of Service and Fault Tolerant Distributed Channel Allocation
 Protocols for Wireless and Mobile Networks.
 
 ### Bachelor in Computer Science Applied to Management, High School of Management, Tunis, Tunisia, 2004
-Design and implementation of an application for the management of the
+- Design and implementation of an application for the management of the
 support service of BFI
 (Banque et Finance Internationale): Intranet/Extranet.
 
 ## CERTIFICATIONS & COURSES
-Predix Developer Certicate 2017.
-Machine Learning Certicate offered by Stanford.
+- ECornell ML Certificate (in progress)
+- Data Science Green Belt (in progress)
+- Completed course: Developing Applications using Cisco Core Platforms and APIs
+- Predix Developer Certicate 2017.
+- Machine Learning Certicate offered by Stanford.
 
 ## HONORS & AWARDS
-NSERC DIVA Best Poster Presentation Award, University of Ottawa, ON, CANADA
-Natural Sciences and Engineering Research Council of Canada (NSERC) Postgraduate Scholarship, University of Ottawa, ON, CANADA
-Excellence scholarship, University of Ottawa, ON, Canada
+- NSERC DIVA Best Poster Presentation Award, University of Ottawa, ON, CANADA
+- Natural Sciences and Engineering Research Council of Canada (NSERC) Postgraduate Scholarship, University of Ottawa, ON, CANADA
+- Excellence scholarship, University of Ottawa, ON, Canada
 
 ## PUBLICATIONS
 https://dblp.org/pers/hd/a/Abrougui:Kaouther
@@ -168,15 +163,21 @@ https://dblp.org/pers/hd/a/Abrougui:Kaouther
 1. K. Abrougui, M.  Elhadef: “Parallel Self-Diagnosis of Large Multiprocessor Systems Under the Generalized Comparison Model”. The 11th International Conference on Parallel and Distributed Systems (ICPADS-2005), pages 78-84.
 
 ## VOLUNTEERING EXPERIENCE
-1. Officer at Cisco Speaks Toastmasters
-1. Founder of the Career Kickoff space
-1. Cisco Neo Panel
-1. Community Member, Open Networking Laboratory, Menlo Park, CA, USAHelp with ONOS (Open Network Operating System)
+-  Officer at Cisco Speaks Toastmasters
+-  Founder of the Career Kickoff space
+-  Cisco Neo Panel
+-  Community Member, Open Networking Laboratory, Menlo Park, CA, USAHelp with ONOS (Open Network Operating System)
 development (in Java) and testing(using open source TestON (in Python)). 2015
-1. Member, SDN/NFV SIG Organize events for the Software Dened Networking/Network Functions Virtualization Special Interest
+-  Member, SDN/NFV SIG Organize events for the Software Dened Networking/Network Functions Virtualization Special Interest
 Group. 2015
 
 ## RECOGNITION
 - 2021 Cisco Inspire
+
+## HOBBIES
+- Hiking
+- Audiobooks
+- Working out every day
+- Spartan Trifecta earned
 
 
