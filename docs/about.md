@@ -17,32 +17,32 @@ Write it in first (I) or third (Your Name Here) person.
 ## Experience
 
 ### Software Engineer at Cisco
-. Led the Diagnostics Center product to its first release in Cisco DNA Center.
-. Currently working on Cisco DNA Center Management System for large scale DNACs deployment.
+- Led the Diagnostics Center product to its first release in Cisco DNA Center.
+- Currently working on Cisco DNA Center Management System for large scale DNACs deployment.
 ### Platform Cloud Engineer, GE Digital, San Ramon, CA January-2018 - June-2019
-Helped build and maintain platform as a service in Public Cloud and
+- Helped build and maintain platform as a service in Public Cloud and
 Private Cloud. Technologies: Kubernetes, Cloud Foundry, Bosh,
 Concourse, AWS, Azure, VSphere. Integration with Portworx for
 hyperconverged solution. Integration with AVI networks for load
 balancing and service discovery.
 
-Collaborated with other teams to integrate host intrusion detection,
+- Collaborated with other teams to integrate host intrusion detection,
 vulnerability scanning features and provide CIS compliant PaaS.
 
-Stemcell Hardening: Developed and rolled out the OS-Cong scripts
+- Stemcell Hardening: Developed and rolled out the OS-Cong scripts
 that permitted to deliver NIST/ITAR compliant PaaS.
 
-Set up the monitoring solution for Predix Container Service:
+- Set up the monitoring solution for Predix Container Service:
 deployed metrics collectors and developed Splunk metrics Dashboards
 for the Platform.
 
-Contributed to the platform metering solution to track customer CPU
+- Contributed to the platform metering solution to track customer CPU
 and Memory usage.
 
-Contributed to the development of API Interceptor requirement using
+- Contributed to the development of API Interceptor requirement using
 Kong plugin.
 
-Helped troubleshoot customer issues in the Platform.
+- Helped troubleshoot customer issues in the Platform.
 
 ### Full Stack Software Engineer, GE Aviation, San Ramon, CA November-2016 - January-2018
 Contributed to the design and development of Fleet Support solution
