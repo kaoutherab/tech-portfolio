@@ -138,45 +138,45 @@ https://dblp.org/pers/hd/a/Abrougui:Kaouther
 1. K. Abrougui, A. Boukerche, R. W. Pazzi: Scalable Bandwidth-Efficient Hybrid Adaptive Service Discovery Protocol for Vehicular Networks with Infrastructure Support. Accepted in the IEEE Transactions on Mobile Computing, 2013.
 1. M. Almulla, K. Abrougui, A. Boukerche: LEADMesh: Design and Analysis of An Efficient Leader Election Protocol for Wireless Mesh Networks. Accepted in the journal Simulation Modelling Practice and Theory SIMPAT, 2013.
 1. K. Abrougui, A. Boukerche: Efficient group-based authentication protocol for location-based service discovery in intelligent transportation systems. Security and Communication Networks 6(4): 473-484 (2013)
-K. Abrougui, A. Boukerche, H. Ramadan: Efficient Load Balancing and QoS based Location aware Service Discovery Protocol for Vehicular Ad hoc Networks. Eurasip Journal on Wireless Communication and Networking, Springer, volume 2012, number 1, pages 96, year 2012.
-K. Abrougui, A. Boukerche, H. Ramadan: Performance Evaluation of an Efficient Fault Tolerant Service Discovery Protocol for Vehicular Networks. Journal of Network and Computer Applications, Volume 35, Issue 5, September 2012, Pages 1424-1435.
-K. Abrougui, A. Boukerche, R. W. Pazzi: Design and Evaluation of Context-aware and Location-based Service Discovery Protocols for Vehicular Networks: IEEE Transactions on Intelligent Transportation Systems, volume 12, number 3, pages 717-735, year 2011.
-K. Abrougui, A. Boukerche, R. W. Pazzi: Location-aided Gateway Advertisement and Discovery Protocol for VANets. IEEE Transactions on Vehicular Technology, volume 59, number 8, pages 3843--3858, year 2010.
-T. Huang, A. Boukerche, K. Abrougui, J. Williams. An efficient distributed fault-tolerant protocol for dynamic channel allocation. Wireless Communications and, Mobile Computing. John Wiley \& Sons 2008. Volume 8, number 3, pages  279—294.
-M. Elhadef, K. Abrougui, S. Das and A. Nayak: A parallel probabilistic system level fault diagnosis approach in “Parallel Processing Letters 2006”, pages 63-80.
-K. Abrougui, A. Boukerche, Y. Wang: Secure Gateway Localization and Communication System for Vehicular Ad hoc Networks. Accepted in the IEEE Global Telecommunications Conference: GLOBECOM, 2012.
-K. Abrougui, A. Boukerche: Efficient Secure Service Discovery Protocol for Intelligent Transportation Systems. The 22nd IEEE Symposium on Personal, Indoor, Mobile and Radio Communications (PIMRC 2011), pages 756-760.
-K. Abrougui, A. Boukerche: Secure Service Discovery Protocol for Intelligent Transport Systems: Proof of Correctness. Proceedings of the first ACM international symposium on Design and analysis of intelligent vehicular networks and applications, DIVANet 2011, pages 101-108.
-K. Abrougui, A. Boukerche: Design and Performance Evaluation of a Fault Tolerant, Load Balancing and QoS based Location Service Discovery Protocol for Vehicular Networks. Accepted in the 7-th ACM Symposium on QoS and Security for Wireless and Mobile Networks (Q2SWinet 2011).
-K. Abrougui, A. Boukerche, R.W. Pazzi. Context-aware and location-based service discovery protocol for Vehicular Networks: Proof of correctness. Conference on Local Computer Networks (LCN), 2010 IEEE 35th pages 858--865.
-K. Abrougui, A. Boukerche, Richard Werner Pazzi: An Efficient Fault Tolerant Location Based Service Discovery Protocol for Vehicular Networks. IEEE Global Telecommunications Conference: GLOBECOM 2010. page 1-6.
-R. W. Pazzi, K. Abrougui, C. De Rezende, and A. Boukerche : Service Discovery Protocols for VANET based Emergency Preparedness Class of Applications: A Necessity Public Safety and Security, 4th International Conference on Information Systems Technology and Management (ICISTM 2010), March 11-13, 2010 Bangkok 
-K. Abrougui, A. Boukerche, R. W. Pazzi:  Performance Evaluation of Location-based Service Discovery Protocols for Vehicular Networks. IEEE International Conference on Communications. ICC '10. ICC 2010.
-K. Abrougui, A. Boukerche, S. Samarah: Design and performance evaluation of QoS aware and location based service discovery protocol for vehicular networks, Proceedings of the 13th ACM international conference on Modeling, analysis, and simulation of wireless and mobile systems, pages 73--80, 2010.
-A. Boukerche, K. Abrougui, R. W. Pazzi : Context-aware and Location-based Service Discovery Protocol for Vehicular Networks. International Workshop on Modeling Analysis and Simulation of Wireless and Mobile Systems. Proceedings of the 6th ACM symposium on Performance evaluation of wireless ad hoc, sensor, and ubiquitous networks. PE-WASUN 09. Pages 93—100. 
-A. Boukerche, K. Abrougui, R.W. Pazzi : Location-aided Gateway Advertisement and Discovery Protocol for VANets: Proof of Correctness : IEEE 34th Conference on  Local Computer Networks, 2009. LCN 2009. Page(s): 778 – 785.
-A. Boukerche, K. Abrougui, R. W. Pazzi: An Efficient Hybrid Adaptive Location-Aided Gateway Advertisement and Discovery Protocol for Heterogeneous Wireless and Mobile Networks. . IEEE Global Telecommunications Conference, 2009. GLOBECOM 2009. Page(s): 1 – 6.
-A. Boukerche, K. Abrougui: A Service Discovery protocol for vehicular ad hoc networks: A proof of correctness. . IEEE International Symposium on  Parallel & Distributed Processing, 2009. IPDPS 2009. Page(s): 1 – 8.
-A. Boukerche, K. Abrougui: Performance evaluation of a hybrid adaptive service discovery protocol for next generation Heterogeneous Vehicular Networks (HVNs). International Workshop on Modeling Analysis and Simulation of Wireless and Mobile Systems. Proceedings of the 3nd ACM workshop on Performance monitoring and measurement of heterogeneous wireless and wired networks. PM2HW2N 2008: 27-34
-K. Abrougui, A. Boukerche: A mesh hybrid adaptive service discovery protocol (MesHASeDiP): Protocol design and proof of correctness. . IEEE International Symposium on  Parallel and Distributed Processing, 2008. IPDPS 2008. Page(s): 1 - 5
-A. Boukerche, K. Abrougui: “An Efficient Leader Election Protocol for Wireless Quasi-Static Mesh Networks: Proof of Correctness”. IEEE International Conference on Communications, 2007. ICC'07. Glasgow, Scotland, UK, June 2007. pages 3491—3496
-A. Boukerche, K. Abrougui: “A Leader Election Protocol for Wireless Ad Hoc Networks”. International Wireless Communications and Mobile Computing Conference (IWCMC 2006), pages 1129-1134. Vancouver, British Columbia, Canada, July 2006.
-A. Boukerche, T. Huang and K. Abrougui: “QoS and Fault-Tolerant Based Distributed Dynamic Channel Allocation Protocol for Cellular Networks”. The Third international IEEE conference on local computer networks (LNC 2005), pages 59-67. Sydney, November 2005.
-A. Boukerche, T. Huang and K. Abrougui: “Design and Performance Evaluation of a QoS-Based Dynamic Channel Allocation Protocol for Wireless and Mobile Networks”. 13th Annual Meeting of the IEEE International Symposium on Modeling, Analysis, and Simulation of Computer and Telecommunication Systems (MASCOTS), pages 445-452. Atlanta, USA, 2005.
-A. Boukerche, T. Huang, K. Abrougui and J. Williams: “A Fault-Tolerant Dynamic Channel Allocation Protocol for Cellular Networks”. International Conference on Wireless Networks, Communication, and Mobile Computing (IEEE WIRELESSCOM 2005), CD-ROM. Maui, Hawaii, June 2005.
-M. Elhadef, K. Abrougui, S. Das and A. Nayak: “Probabilistic Diagnosis of Large Systems Using a Parallel Genetic Approach”. International MultiConference in Computer Science & Computer Engineering, (PDPTA 2005), pages 1010-1016.
-K. Abrougui, M.  Elhadef: “Parallel Self-Diagnosis of Large Multiprocessor Systems Under the Generalized Comparison Model”. The 11th International Conference on Parallel and Distributed Systems (ICPADS-2005), pages 78-84.
+1. K. Abrougui, A. Boukerche, H. Ramadan: Efficient Load Balancing and QoS based Location aware Service Discovery Protocol for Vehicular Ad hoc Networks. Eurasip Journal on Wireless Communication and Networking, Springer, volume 2012, number 1, pages 96, year 2012.
+1. K. Abrougui, A. Boukerche, H. Ramadan: Performance Evaluation of an Efficient Fault Tolerant Service Discovery Protocol for Vehicular Networks. Journal of Network and Computer Applications, Volume 35, Issue 5, September 2012, Pages 1424-1435.
+1. K. Abrougui, A. Boukerche, R. W. Pazzi: Design and Evaluation of Context-aware and Location-based Service Discovery Protocols for Vehicular Networks: IEEE Transactions on Intelligent Transportation Systems, volume 12, number 3, pages 717-735, year 2011.
+1. K. Abrougui, A. Boukerche, R. W. Pazzi: Location-aided Gateway Advertisement and Discovery Protocol for VANets. IEEE Transactions on Vehicular Technology, volume 59, number 8, pages 3843--3858, year 2010.
+1. T. Huang, A. Boukerche, K. Abrougui, J. Williams. An efficient distributed fault-tolerant protocol for dynamic channel allocation. Wireless Communications and, Mobile Computing. John Wiley \& Sons 2008. Volume 8, number 3, pages  279—294.
+1. M. Elhadef, K. Abrougui, S. Das and A. Nayak: A parallel probabilistic system level fault diagnosis approach in “Parallel Processing Letters 2006”, pages 63-80.
+1. K. Abrougui, A. Boukerche, Y. Wang: Secure Gateway Localization and Communication System for Vehicular Ad hoc Networks. Accepted in the IEEE Global Telecommunications Conference: GLOBECOM, 2012.
+1. K. Abrougui, A. Boukerche: Efficient Secure Service Discovery Protocol for Intelligent Transportation Systems. The 22nd IEEE Symposium on Personal, Indoor, Mobile and Radio Communications (PIMRC 2011), pages 756-760.
+1. K. Abrougui, A. Boukerche: Secure Service Discovery Protocol for Intelligent Transport Systems: Proof of Correctness. Proceedings of the first ACM international symposium on Design and analysis of intelligent vehicular networks and applications, DIVANet 2011, pages 101-108.
+1. K. Abrougui, A. Boukerche: Design and Performance Evaluation of a Fault Tolerant, Load Balancing and QoS based Location Service Discovery Protocol for Vehicular Networks. Accepted in the 7-th ACM Symposium on QoS and Security for Wireless and Mobile Networks (Q2SWinet 2011).
+1. K. Abrougui, A. Boukerche, R.W. Pazzi. Context-aware and location-based service discovery protocol for Vehicular Networks: Proof of correctness. Conference on Local Computer Networks (LCN), 2010 IEEE 35th pages 858--865.
+1. K. Abrougui, A. Boukerche, Richard Werner Pazzi: An Efficient Fault Tolerant Location Based Service Discovery Protocol for Vehicular Networks. IEEE Global Telecommunications Conference: GLOBECOM 2010. page 1-6.
+1. R. W. Pazzi, K. Abrougui, C. De Rezende, and A. Boukerche : Service Discovery Protocols for VANET based Emergency Preparedness Class of Applications: A Necessity Public Safety and Security, 4th International Conference on Information Systems Technology and Management (ICISTM 2010), March 11-13, 2010 Bangkok 
+1. K. Abrougui, A. Boukerche, R. W. Pazzi:  Performance Evaluation of Location-based Service Discovery Protocols for Vehicular Networks. IEEE International Conference on Communications. ICC '10. ICC 2010.
+1. K. Abrougui, A. Boukerche, S. Samarah: Design and performance evaluation of QoS aware and location based service discovery protocol for vehicular networks, Proceedings of the 13th ACM international conference on Modeling, analysis, and simulation of wireless and mobile systems, pages 73--80, 2010.
+1. A. Boukerche, K. Abrougui, R. W. Pazzi : Context-aware and Location-based Service Discovery Protocol for Vehicular Networks. International Workshop on Modeling Analysis and Simulation of Wireless and Mobile Systems. Proceedings of the 6th ACM symposium on Performance evaluation of wireless ad hoc, sensor, and ubiquitous networks. PE-WASUN 09. Pages 93—100. 
+1. A. Boukerche, K. Abrougui, R.W. Pazzi : Location-aided Gateway Advertisement and Discovery Protocol for VANets: Proof of Correctness : IEEE 34th Conference on  Local Computer Networks, 2009. LCN 2009. Page(s): 778 – 785.
+1. A. Boukerche, K. Abrougui, R. W. Pazzi: An Efficient Hybrid Adaptive Location-Aided Gateway Advertisement and Discovery Protocol for Heterogeneous Wireless and Mobile Networks. . IEEE Global Telecommunications Conference, 2009. GLOBECOM 2009. Page(s): 1 – 6.
+1. A. Boukerche, K. Abrougui: A Service Discovery protocol for vehicular ad hoc networks: A proof of correctness. . IEEE International Symposium on  Parallel & Distributed Processing, 2009. IPDPS 2009. Page(s): 1 – 8.
+1. A. Boukerche, K. Abrougui: Performance evaluation of a hybrid adaptive service discovery protocol for next generation Heterogeneous Vehicular Networks (HVNs). International Workshop on Modeling Analysis and Simulation of Wireless and Mobile Systems. Proceedings of the 3nd ACM workshop on Performance monitoring and measurement of heterogeneous wireless and wired networks. PM2HW2N 2008: 27-34
+1. K. Abrougui, A. Boukerche: A mesh hybrid adaptive service discovery protocol (MesHASeDiP): Protocol design and proof of correctness. . IEEE International Symposium on  Parallel and Distributed Processing, 2008. IPDPS 2008. Page(s): 1 - 5
+1. A. Boukerche, K. Abrougui: “An Efficient Leader Election Protocol for Wireless Quasi-Static Mesh Networks: Proof of Correctness”. IEEE International Conference on Communications, 2007. ICC'07. Glasgow, Scotland, UK, June 2007. pages 3491—3496
+1. A. Boukerche, K. Abrougui: “A Leader Election Protocol for Wireless Ad Hoc Networks”. International Wireless Communications and Mobile Computing Conference (IWCMC 2006), pages 1129-1134. Vancouver, British Columbia, Canada, July 2006.
+1. A. Boukerche, T. Huang and K. Abrougui: “QoS and Fault-Tolerant Based Distributed Dynamic Channel Allocation Protocol for Cellular Networks”. The Third international IEEE conference on local computer networks (LNC 2005), pages 59-67. Sydney, November 2005.
+1. A. Boukerche, T. Huang and K. Abrougui: “Design and Performance Evaluation of a QoS-Based Dynamic Channel Allocation Protocol for Wireless and Mobile Networks”. 13th Annual Meeting of the IEEE International Symposium on Modeling, Analysis, and Simulation of Computer and Telecommunication Systems (MASCOTS), pages 445-452. Atlanta, USA, 2005.
+1. A. Boukerche, T. Huang, K. Abrougui and J. Williams: “A Fault-Tolerant Dynamic Channel Allocation Protocol for Cellular Networks”. International Conference on Wireless Networks, Communication, and Mobile Computing (IEEE WIRELESSCOM 2005), CD-ROM. Maui, Hawaii, June 2005.
+1. M. Elhadef, K. Abrougui, S. Das and A. Nayak: “Probabilistic Diagnosis of Large Systems Using a Parallel Genetic Approach”. International MultiConference in Computer Science & Computer Engineering, (PDPTA 2005), pages 1010-1016.
+1. K. Abrougui, M.  Elhadef: “Parallel Self-Diagnosis of Large Multiprocessor Systems Under the Generalized Comparison Model”. The 11th International Conference on Parallel and Distributed Systems (ICPADS-2005), pages 78-84.
+
+## VOLUNTEERING EXPERIENCE
+1. Officer at Cisco Speaks Toastmasters
+1. Founder of the Career Kickoff space
+1. Cisco Neo Panel
+1. Community Member, Open Networking Laboratory, Menlo Park, CA, USAHelp with ONOS (Open Network Operating System)
+development (in Java) and testing(using open source TestON (in Python)). 2015
+1. Member, SDN/NFV SIG Organize events for the Software Dened Networking/Network Functions Virtualization Special Interest
+Group. 2015
+
+## RECOGNITION
+- 2021 Cisco Inspire
 
 
-
-
-
-## Recognition
-
-- 2020 Awesome Woman in Technology Award
-
-## Social Media
-
-- Twitter
-- LinkedIn
-- GitHub
