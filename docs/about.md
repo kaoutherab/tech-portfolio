@@ -135,9 +135,9 @@ Excellence scholarship, University of Ottawa, ON, Canada
 ## PUBLICATIONS
 https://dblp.org/pers/hd/a/Abrougui:Kaouther
 
-K. Abrougui, A. Boukerche, R. W. Pazzi: Scalable Bandwidth-Efficient Hybrid Adaptive Service Discovery Protocol for Vehicular Networks with Infrastructure Support. Accepted in the IEEE Transactions on Mobile Computing, 2013.
-M. Almulla, K. Abrougui, A. Boukerche: LEADMesh: Design and Analysis of An Efficient Leader Election Protocol for Wireless Mesh Networks. Accepted in the journal Simulation Modelling Practice and Theory SIMPAT, 2013.
-K. Abrougui, A. Boukerche: Efficient group-based authentication protocol for location-based service discovery in intelligent transportation systems. Security and Communication Networks 6(4): 473-484 (2013)
+1. K. Abrougui, A. Boukerche, R. W. Pazzi: Scalable Bandwidth-Efficient Hybrid Adaptive Service Discovery Protocol for Vehicular Networks with Infrastructure Support. Accepted in the IEEE Transactions on Mobile Computing, 2013.
+1. M. Almulla, K. Abrougui, A. Boukerche: LEADMesh: Design and Analysis of An Efficient Leader Election Protocol for Wireless Mesh Networks. Accepted in the journal Simulation Modelling Practice and Theory SIMPAT, 2013.
+1. K. Abrougui, A. Boukerche: Efficient group-based authentication protocol for location-based service discovery in intelligent transportation systems. Security and Communication Networks 6(4): 473-484 (2013)
 K. Abrougui, A. Boukerche, H. Ramadan: Efficient Load Balancing and QoS based Location aware Service Discovery Protocol for Vehicular Ad hoc Networks. Eurasip Journal on Wireless Communication and Networking, Springer, volume 2012, number 1, pages 96, year 2012.
 K. Abrougui, A. Boukerche, H. Ramadan: Performance Evaluation of an Efficient Fault Tolerant Service Discovery Protocol for Vehicular Networks. Journal of Network and Computer Applications, Volume 35, Issue 5, September 2012, Pages 1424-1435.
 K. Abrougui, A. Boukerche, R. W. Pazzi: Design and Evaluation of Context-aware and Location-based Service Discovery Protocols for Vehicular Networks: IEEE Transactions on Intelligent Transportation Systems, volume 12, number 3, pages 717-735, year 2011.
