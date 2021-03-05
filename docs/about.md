@@ -17,8 +17,8 @@ Write it in first (I) or third (Your Name Here) person.
 ## Experience
 
 ### Software Engineer at Cisco
-Led the Diagnostics Center product to its first release in Cisco DNA Center.
-Work on DNA Center Management System.
+. Led the Diagnostics Center product to its first release in Cisco DNA Center.
+. Currently working on Cisco DNA Center Management System for large scale DNACs deployment.
 ### Platform Cloud Engineer, GE Digital, San Ramon, CA January-2018 - June-2019
 Helped build and maintain platform as a service in Public Cloud and
 Private Cloud. Technologies: Kubernetes, Cloud Foundry, Bosh,
