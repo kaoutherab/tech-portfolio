@@ -5,9 +5,9 @@ I earned my PhD degree in 2011 in Computer Science and started my journey in res
 I am passionate about learning, growing, and innovating. I believe in the power of persistence and perseverance.
 Motto: "Small daily improvements when done consistently over time lead to stunning results!"
 
-## Experience
+## WORK EXPERIENCE
 
-### Software Engineer at Cisco
+### Software Engineer, Cisco Systems, San Jose, CA, June-2019 - current
 - Led the Diagnostics Center product to its first release in Cisco DNA Center.
 - Currently working on Cisco DNA Center Management System (DMS), building a highly available system that acts as the Single Pane of Glass for customers with multiple DNAC deployments. My primary responsibilities are:  solving problems and conducting PoCs on conflict resolution and authoring challenges while aggregating resources from all DNACs; working on an active-active system deployment in hybrid and multi-cloud for increased availability and reliability; interacting with different stakeholders to finalize the architecture commit of this product: interacting with PMs to get customer needs, collaborating with DNAC service owners and conducting PoCs to ensure that DNAC functionalities are available on DMS and to ensure transparent user experience using DMS after using DNAC, and interacting with team members while building the DMS framework and testing it.
 
@@ -49,9 +49,7 @@ Predix Cloud. (Java, Go, RabbitMQ, GreenPlum, Cassandra, Postgres)
 Managements. (Java, Springboot, golang, Oracle DB, Cassandra,
 GreenPlum).)
 
-### Alliance IT and Concursoft, Backend Software Engineer, Bay Area, CA May-2008 - November-2016
--Worked as consultant in the design and development of Web
-Applications for dierent clients:
+### Alliance IT and Concursoft, Backend Software Engineer Consultant, Bay Area, CA May-2008 - November-2016
 
 - General Electric: Worked as full stack engineer to develop new
 features for the Fleet Support project, and maintain existing features.
@@ -95,7 +93,7 @@ classes for DAO layer and tested each component. Coded & Modulated
 Documentation, review. Congured the entire application on Eclipse on
 the development as well as production environment.
 
-## Education
+## EDUCATION
 ### PhD in Computer Science, University of Ottawa, Ottawa, Ontario, 2011
 - Design and Performance Evaluation of Service Discovery Protocols for
 Vehicular Networks.
