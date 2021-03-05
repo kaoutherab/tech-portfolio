@@ -172,7 +172,7 @@ development (in Java) and testing(using open source TestON (in Python)). 2015
 Group. 2015
 
 ## RECOGNITION
-- 2021 Cisco Inspire
+- 2021/2021 Cisco Inspire: Benefit Everyone
 
 ## HOBBIES
 - Growing by participating in career development and leadership programs: Women Inventor Network, Executive Shadow Program...
